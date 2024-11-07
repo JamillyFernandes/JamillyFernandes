@@ -11,11 +11,15 @@
 ### Soft Skills:
 - Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
 
+- ## 🚀 O que estou aprendendo agora:
+- Explorando arquitetura serverless com AWS Lambda e API Gateway
+- Aprimorando habilidades em ServiceNow para automação de tarefas de TI
+
 - ## 🤝 Vamos nos conectar:
 - **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/
 jamilly-fernandes-407a21272
 )
-- **E-mail**: [fjamilly349l@gmail.com](mailto:fjamilly349@.com)
+- **E-mail**: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
 <!-- Ícones em linha com espaçamento -->
 <p align="left">
