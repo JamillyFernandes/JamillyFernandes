@@ -24,7 +24,7 @@
 
 
 <!-- Contatos em linha -->
-<p align="left">
+<p>
   <!-- Gmail -->
   <a href="mailto:fjamilly349@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="margin-right: 10px;"/>
