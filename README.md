@@ -23,7 +23,7 @@
 
 
 <!-- Contatos em linha -->
-<p>
+<p align="left">
   <!-- Gmail -->
   <a href="mailto:fjamilly349@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" alt="Gmail" width="40" height="40" style="margin-right: 10px;"/>
