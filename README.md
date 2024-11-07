@@ -15,10 +15,11 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git Bash" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/powered-by-aws-white.2352b504d9a80b50b188f3a2ae18a4f0.png" alt="AWS" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
+
 
 
 
