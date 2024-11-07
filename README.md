@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=491852size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Jamilly,+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=491852&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Jamilly,+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 ## Olá, me chamo Jamilly! 👋
