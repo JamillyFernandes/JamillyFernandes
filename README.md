@@ -18,4 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&count_private=true)
 
 <a href="mailto:fjamilly349@gmail.com">
-<img src="https://cdn.phonemore.com/content/2020/jpg/14850.jpg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://cdn.phonemore.com/content/2020/jpg/14850.jpg?style=for-the-badge&logo=gmail&logoColor=white&size=15" alt="Gmail"/>
