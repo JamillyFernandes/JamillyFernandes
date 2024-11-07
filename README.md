@@ -2,11 +2,11 @@
 ## Olá, me chamo Jamilly! 👋
 
 ## Seja bem vindo ao meu perfil, uma trainee na área de TI!
-- Atualmente cursando e me aprofundando na área de Programação Back-end e Front-end, com visão futurística voltada para Engenharia de Software 
+- Atualmente cursando e me aprofundando na área de Programação Back-end e Front-end, com visão futurística voltada para Engenharia de Software.
 
 ### Hard Skills:
 - **Linguagens:** HTML, CSS, Python, JavaScript.
-- **Ferramentas:** MySQL, AWS, Git
+- **Ferramentas:** MySQL, AWS, Git.
 
 ### Soft Skills:
 - Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
