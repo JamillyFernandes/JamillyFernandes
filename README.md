@@ -33,7 +33,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/
 jamilly-fernandes-407a21272" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" alt="LinkedIn" width="80" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="80" height="40"/>
   </a>
 </p>
 
