@@ -6,9 +6,15 @@
 ### Hard Skills:
 - **Linguagens:** HTML, CSS, Python, JavaScript.
 - **Ferramentas:** MySQL, AWS, Git.
+-  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
 
 ### Soft Skills:
 - Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
+
+- ## 🤝 Vamos nos conectar:
+- **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/in/
+jamilly-fernandes-407a21272)
+- **E-mail**: [fjamilly349l@gmail.com](mailto:fjamilly349@.com)
 
 <!-- Ícones em linha com espaçamento -->
 <p align="left">
