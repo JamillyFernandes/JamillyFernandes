@@ -21,24 +21,3 @@
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <style>
-    .text {
-      font: 30px monospace;
-      fill: #ffffff;
-      animation: floatUp 5s linear infinite;
-    }
-
-    @keyframes floatUp {
-      0% { transform: translateY(100px); opacity: 0; }
-      50% { opacity: 1; }
-      100% { transform: translateY(-100px); opacity: 0; }
-    }
-  </style>
-  <rect width="100%" height="100%" fill="#0f172a" />
-  <text x="50%" y="50%" class="text" text-anchor="middle">console.log("Hello, GitHub!");</text>
-</svg>
-
-
-
-
