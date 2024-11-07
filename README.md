@@ -18,4 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&count_private=true)
 
 <a href="mailto:fjamilly349@gmail.com">
-<img src="https://cdn.phonemore.com/content/2020/jpg/14850.jpg" height="40" width="40" border-radius: 50% 50%; alt="Gmail"/>
+<img src="https://cdn.phonemore.com/content/2020/jpg/14850.jpg" height="40" width="40" style="border-radius: 50%;" alt="Gmail"/>
