@@ -11,10 +11,6 @@
 ### Soft Skills:
 - Proatividade, Persistencia, Adaptabilidade,Inteligência Emocional, Foco em Resultados.
 
-### Conecte-se Comigo:
-[LinkedIn](https://www.linkedin.com/in/jamilly-fernandes-407a21272/)
-[Email](mailto:email@exemplo.com)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&count_private=true)
 
 <a href="mailto:fjamilly349@gmail.com">
