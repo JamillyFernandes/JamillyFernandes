@@ -13,7 +13,7 @@
 
 - ## 🤝 Vamos nos conectar:
 - **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/in/
-jamilly-fernandes-407a21272)
+)
 - **E-mail**: [fjamilly349l@gmail.com](mailto:fjamilly349@.com)
 
 <!-- Ícones em linha com espaçamento -->
