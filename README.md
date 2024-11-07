@@ -18,4 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&count_private=true)
 
 <a href="mailto:fjamilly349@gmail.com">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maiscelular.com.br%2Fnoticias%2Fgmail-ganha-novo-icone-como-parte-de-uma-grande-atualizacao-do-g-suite%2F4652&psig=AOvVaw3e7aR8hIJxb11qYxQMANlG&ust=1731086995293000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCfiObfyokDFQAAAAAdAAAAABAE?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://cdn.phonemore.com/content/2020/jpg/14850.jpg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
