@@ -13,12 +13,12 @@
 - **Segurança:** Auditorias com Amazon Inspector, gerenciamento de políticas com AWS IAM, e fortalecimento de redes com regras de firewall e proteção contra malware
 - **Infraestrutura e Automação:** ServiceNow e gerenciamento de rede
 
-### Soft Skills:
-- Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
-
 - ## 🚀 O que estou aprendendo agora:
 - Explorando arquitetura serverless com AWS Lambda e API Gateway
 - Aprimorando habilidades em ServiceNow para automação de tarefas de TI
+
+- ### Soft Skills:
+- Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
 
 - ## 🤝 Vamos nos conectar:
 - **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/
