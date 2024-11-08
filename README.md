@@ -7,11 +7,11 @@
 - **Linguagens:** HTML, CSS, Python, JavaScript.
 - **Ferramentas:** MySQL, AWS, Git.
 -  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
--  Cloud Computing:
-- ##AWS: Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
-- ##Monitoramento: Configuração de alarmes no CloudWatch e notificações via Amazon SNS
-- ##Segurança: Auditorias com Amazon Inspector, gerenciamento de políticas com AWS IAM, e fortalecimento de redes com regras de firewall e proteção contra malware
-- ##Infraestrutura e Automação: ServiceNow e gerenciamento de rede
+- ## Cloud Computing:
+- **AWS:** Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
+- **Monitoramento:** Configuração de alarmes no CloudWatch e notificações via Amazon SNS
+- **Segurança:** Auditorias com Amazon Inspector, gerenciamento de políticas com AWS IAM, e fortalecimento de redes com regras de firewall e proteção contra malware
+- **Infraestrutura e Automação:** ServiceNow e gerenciamento de rede
 
 ### Soft Skills:
 - Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
