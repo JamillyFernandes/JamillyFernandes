@@ -5,7 +5,7 @@
 
 ### Hard Skills:
 - **Linguagens:** HTML, CSS, SCSS, SQL, Python, JavaScript.
-- **Ferramentas:** MySQL, AWS, Git, Flask, React (JSX), API REST
+- **Ferramentas:** MySQL, AWS, Git, Flask, React (JSX), API REST, Linux, Cibersegurança.
 -  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
 - ## Cloud Computing:
 - **AWS:** Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
