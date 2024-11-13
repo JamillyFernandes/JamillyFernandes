@@ -4,8 +4,8 @@
 - Atualmente estou cursando e me aprofundando em Cloud Computing e na área de Programação Back-end e Front-end, com uma visão de futuro voltada para Engenharia de Software.
 
 ### Hard Skills:
-- **Linguagens:** HTML, CSS, Python, JavaScript.
-- **Ferramentas:** MySQL, AWS, Git.
+- **Linguagens:** HTML, CSS, SCSS, SQL, Python, JavaScript.
+- **Ferramentas:** MySQL, AWS, Git, Flask, React (JSX), API REST
 -  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
 - ## Cloud Computing:
 - **AWS:** Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
