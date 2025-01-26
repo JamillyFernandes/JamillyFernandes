@@ -10,8 +10,8 @@
 
 -----------------
 - ## 🤝 Vamos nos conectar:
-- *LinkedIn*: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272)
-- *E-mail*: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
+- LinkedIn: [Jamilly Fernandes](https://www.linkedin.com/in/jamilly-fernandes-407a21272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- E-mail: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
 -----------------
 
