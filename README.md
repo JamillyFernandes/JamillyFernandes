@@ -10,8 +10,7 @@
 
 -----------------
 - ## 🤝 Vamos nos conectar:
-- *LinkedIn*: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272
-)
+- *LinkedIn*: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272)
 - *E-mail*: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
 -----------------
@@ -23,6 +22,12 @@
   <!-- Top Langs Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyFernandes&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" alt="Linguagens Mais Usadas" />
 </div>
+
+## Sites feitos por mim
+<div>
+https://projeto-tcc-dun-delta.vercel.app/
+</div>
+https://portologistica-pied.vercel.app/
 
 
 
