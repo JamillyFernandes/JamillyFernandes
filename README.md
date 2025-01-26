@@ -1,36 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a308&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Jamilly.+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+# Olá, Meu nome é Jamilly Fernandes. Seja Bem-Vindo ao meu perfil e sinta-se a vontade para sugestões que contribuiam com melhorias! 😁
 
-## Seja bem vindo ao meu perfil, uma trainee na área de TI!👋
-- Atualmente, faço um curso de Full Stack e tenho concluído o curso de Computação em Nuvem, e tenho em mente realizar uma faculdade de Engenharia de Software.
-### Hard Skills:
-- **Linguagens:** HTML, CSS, JavaScript.
-- **Ferramentas:** AWS, Git, GitHub, Flask, VsCode
--  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
-- ## Cloud Computing:
-- **AWS:** Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
-- **Monitoramento:** Configuração de alarmes no CloudWatch e notificações via Amazon SNS
-- **Segurança:** Auditorias com Amazon Inspector, gerenciamento de políticas com AWS IAM, e fortalecimento de redes com regras de firewall e proteção contra malware
-- **Infraestrutura e Automação:** ServiceNow e gerenciamento de rede
+![Git hello](https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
 
-- ## 🚀 O que estou aprendendo agora:
-- Explorando arquitetura serverless com AWS Lambda e API Gateway
-- Aprimorando habilidades em ServiceNow para automação de tarefas de TI
+💻 Estou me Desenvolvendo cada vez mais na *Programação!*
 
-- ### Soft Skills:
-- Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
+😀 Atuamente tenho uma formação em *Computação em Nuvem* e estou concluindo um curso de *Full Stack*
 
+📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelance* para adiquirir experiência.
+
+-----------------
 - ## 🤝 Vamos nos conectar:
-- **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272
+- *LinkedIn*: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272
 )
-- **E-mail**: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
+- *E-mail*: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
-<!-- Ícones em linha com espaçamento -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git Bash" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
+-----------------
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JamillyFernandes&show_icons=true&bg_color=000000&icon_color=FFD700&title_color=FFD700&text_color=FFD700" alt="Estatísticas do GitHub" />
+  <br/>
+  <!-- Top Langs Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyFernandes&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" alt="Linguagens Mais Usadas" />
+</div>
+
+
+
+
+## Tecnologias que estou praticando :newspaper:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,vscode,js&theme=light)](https://skillicons.dev)
+
+
+-----------------
+
+## IDE's que faço meus trabalhos :newspaper:
+
+![figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
+![git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![visual studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![winwos10](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg)
+![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg)
+
+------------------------------------
+
 
 
 
