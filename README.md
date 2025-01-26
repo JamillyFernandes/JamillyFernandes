@@ -34,7 +34,7 @@ https://portologistica-pied.vercel.app/
 
 ## Tecnologias que estou praticando :newspaper:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,vscode,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js&theme=light)](https://skillicons.dev)
 
 
 -----------------
