@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a308&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Jamilly.+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## Seja bem vindo ao meu perfil, uma trainee na área de TI!👋
-- Atualmente estou cursando e me aprofundando em Cloud Computing e na área de Programação Back-end e Front-end, com uma visão de futuro voltada para Engenharia de Software.
-
+- Atualmente, faço um curso de Full Stack e tenho concluído o curso de Computação em Nuvem, e tenho em mente realizar uma faculdade de Engenharia de Software.
 ### Hard Skills:
-- **Linguagens:** HTML, CSS, SCSS, SQL, Python, JavaScript.
-- **Ferramentas:** MySQL, AWS, Git, Flask, React (JSX), API REST, Linux, Cibersegurança.
+- **Linguagens:** HTML, CSS, JavaScript.
+- **Ferramentas:** AWS, Git, GitHub, Flask, VsCode
 -  **Cloud**: AWS (EC2, RDS, CloudWatch, etc.)
 - ## Cloud Computing:
 - **AWS:** Experiência prática com EC2, RDS, Amazon SNS, CloudWatch, Amazon Inspector e AWS Systems Manager
