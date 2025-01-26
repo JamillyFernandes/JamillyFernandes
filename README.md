@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamillyFernandes&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" alt="Linguagens Mais Usadas" />
 </div>
 
-## Sites feitos por mim
+## Sites feitos por mim:
 <div>
 https://projeto-tcc-dun-delta.vercel.app/
 </div>
