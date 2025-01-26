@@ -20,8 +20,7 @@
 - Proatividade, Persistência, Adaptabilidade, Inteligência Emocional, Foco em Resultados e Trabalho em Equipe.
 
 - ## 🤝 Vamos nos conectar:
-- **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/
-jamilly-fernandes-407a21272
+- **LinkedIn**: [Jamilly Fernandes](www.linkedin.com/in/jamilly-fernandes-407a21272
 )
 - **E-mail**: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
