@@ -1,4 +1,4 @@
-# Olá, Meu nome é Jamilly Fernandes. Seja Bem-Vindo ao meu perfil e sinta-se a vontade para sugestões que contribuiam para melhorias! 😁
+# Olá, Meu nome é Jamilly Fernandes. Seja Bem-Vindo ao meu perfil e sinta-se a vontade para sugestões que contribuam para melhorias! 😁
 
 ![Git hello](https://raw.githubusercontent.com/gist/JayaRaghavendra/5289d3687bf8bcd6d806b3655e11c7f4/raw/abf4b7228cadc93427e398a7f4d8fb031988c90d/Hello%20World.gif)
 
