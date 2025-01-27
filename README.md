@@ -4,9 +4,9 @@
 
 💻 Estou me Desenvolvendo cada vez mais na *Programação!*
 
-😀 Atuamente tenho uma formação em *Computação em Nuvem* e estou concluindo um curso de *Full Stack*
+😀 Atuamente tenho uma formação em *Computação em Nuvem* e estou concluindo um curso de *Desenvolvedor Full Stack*
 
-📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelance* para adiquirir experiência.
+📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelance* para adiquirir experiência
 
 -----------------
 - ## 🤝 Vamos nos conectar:
