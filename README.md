@@ -9,10 +9,10 @@
 📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelance* para adiquirir experiência
 
 -----------------
-- ## 🤝 Vamos nos conectar:
+ ## 🤝 Vamos nos conectar:
 - LinkedIn: [Jamilly Fernandes](https://www.linkedin.com/in/jamilly-fernandes-407a21272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - E-mail: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
-
+ 
 -----------------
 
 <div align="center">
