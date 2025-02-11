@@ -4,14 +4,17 @@
 
 💻 Estou me Desenvolvendo cada vez mais na *Programação!*
 
-😀 Atuamente tenho uma formação em *Computação em Nuvem* e estou concluindo um curso de *Desenvolvedor Full Stack*
+😀 Atuamente tenho uma formação em *Computação em Nuvem* e estou concluindo um curso de *Desenvolvedor Full Stack.*
 
-📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelance* para adiquirir experiência
+📍 Estou em busca de atuar como *DevJunior*, *Jovem Aprendiz* e/ou *atividades Freelancer* afim de adiquirir experiência.
 
 -----------------
- ## 🤝 Vamos nos conectar:
+ ## 🤝 Onde me encontrar:
 - LinkedIn: [Jamilly Fernandes](https://www.linkedin.com/in/jamilly-fernandes-407a21272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - E-mail: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
+
+ ## 📜​ Que tal dar uma olhadinha em meu curriculo?
+ [Baixar currículo] (./)
  
 -----------------
 
