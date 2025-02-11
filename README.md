@@ -14,7 +14,7 @@
 - E-mail: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
 
  ## 📜​ Que tal dar uma olhadinha em meu curriculo?
- [Baixar currículo] ()
+ [Baixar currículo] (Currículo Jamilly Fernandes.1.pdf)
  
 -----------------
 
