@@ -12,9 +12,6 @@
  ## 🤝 Onde me encontrar:
 - LinkedIn: [Jamilly Fernandes](https://www.linkedin.com/in/jamilly-fernandes-407a21272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - E-mail: [fjamilly349@gmail.com](mailto:fjamilly349@.com)
-
- ## 📜​ Que tal dar uma olhadinha em meu curriculo?
- [Baixar currículo] (Currículo Jamilly Fernandes.1.pdf)
  
 -----------------
 
